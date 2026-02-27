@@ -1,0 +1,1 @@
+rootProject.name = "maze-runner-with-java"
